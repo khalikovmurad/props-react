@@ -1,0 +1,29 @@
+.sideBar {
+    width: 300px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* .centr {
+    width: 1200px;
+    height: 800px;
+    border: 1px solid black;
+    display: flex;
+} */
+
+.block{
+    display: flex;
+}
+
+
+ .photo img {
+    width: 150px;
+ }
+
+ .centr{
+    display: flex;
+    flex-wrap: wrap;
+ }
+
+  .tovar{
+    padding: 100px;
+ }

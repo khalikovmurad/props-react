@@ -1,0 +1,20 @@
+.header {
+width: 1500px;
+height: 100px;
+display: flex;
+align-items: center;
+justify-content: space-between;
+}
+
+.intocode {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+
+.corzina img {
+    max-width:100% ;
+}
+
+.corzina {
+    width: 50px;
+}
